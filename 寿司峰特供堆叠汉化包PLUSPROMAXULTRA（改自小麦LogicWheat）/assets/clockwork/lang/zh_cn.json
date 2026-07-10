@@ -1,0 +1,26 @@
+{
+  "packet.clockwork.client_message.is_flying": "%1$s 现在处于飞行状态",
+  "packet.clockwork.client_message.is_walking": "%1$s 现在处于行走状态",
+
+  "key.clockwork.toggle_dragonfly_flight": "切换发条蜻蜓飞行模式",
+  "key.categories.clockwork": "发条工艺",
+
+  "creativetab.clockwork.title": "发条工艺",
+
+  "item.clockwork.clockwork_gear": "发条齿轮",
+  "item.clockwork.crossbow_barrel": "机弩转轮",
+  "item.clockwork.clockwork_arrow": "发条箭矢",
+  "item.clockwork.barrel_crossbow": "自动机弩",
+  "item.clockwork.scope_crossbow": "狙击机弩",
+  "item.clockwork.clockwork_potion_sprayer": "药水喷洒器",
+  "item.clockwork.clockwork_flamethrower": "火焰喷射器",
+  "item.clockwork.clockwork_wings": "发条鞘翅",
+  "item.clockwork.clockwork_drill": "发条矿探机",
+
+  "entity.clockwork.dragonfly": "发条蜻蜓",
+  "entity.clockwork.broken_dragonfly": "损坏的发条蜻蜓",
+  "entity.clockwork.clockwork_drill": "发条矿探机",
+
+  "message.clockwork.broken_drill": "你需要使用 %1$d 个发条齿轮%2$s来修复发条矿探机",
+  "message.clockwork.broken_drill_repaired": "发条矿探机已正确修复！"
+}
