@@ -1,2 +1,23 @@
-# -
-su！shiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii！
+# 寿司峰群组汉化资源包
+
+欢迎！这是寿司峰群组服务器的汉化资源包仓库。
+
+## 文件结构
+- `assets/[模组id]/lang/` 目录下存放所有 `.json` 语言文件。
+- 主语言文件为 `en_us.json`（英文源文件），汉化目标为 `zh_cn.json`。
+
+## 给 AI （DeepSeek）的上下文说明
+> **重要：请仔细阅读以下规则**
+1. 这是一个 Minecraft 资源包，所有文本用于游戏内显示。
+2. 请基于 `en_us.json` 的内容，生成对应的 `zh_cn.json` 汉化文件。
+3. **翻译要求**：
+   - 专有名词（如物品名、方块名）保持游戏内通用译名，不要直译，参考相关参考文件翻译。
+   - 提示文本（Tooltip/字幕）要求通顺、符合中文玩家阅读习惯，可适当加入双关，梗之类。
+   - 保留原 JSON 的键名（Key），只翻译值（Value）。
+   - 翻译未汉化文件文件夹内的特定名称文件夹 `en_us.json` 时，请参考参考文件夹内对应名称的文件夹和内部txt文件标注的参考文件夹对应的参考文件
+4. 提交方式：请将翻译好的文件通过 **Pull Request (PR)** 提交，我会审阅后合并。
+
+## 协作流程
+1. 我上传待汉化的 `en_us.json` 和可能存在的 `zh_cn.json` 到 `main` 分支。
+2. AI （DeepSeek）读取文件并创建 PR 提交完整的新 `zh_cn.json`。
+3. 我在 GitHub 上 Review PR，确认无误后 **Merge（合并）**。
