@@ -3,8 +3,8 @@
 欢迎！这是寿司峰群组服务器的汉化资源包仓库。
 
 ## 文件结构
-- `寿司峰特供堆叠汉化包PLUSPROMAXULTRA（改自小麦LogicWheat）/assets/[模组id]/lang/` 目录下存放所有 `.json` 语言文件。
-- 主语言文件为 `en_us.json`（英文源文件），汉化目标为 `zh_cn.json`。
+- `寿司峰特供堆叠汉化包PLUSPROMAXULTRA（改自小麦LogicWheat）/assets/[模组id]/lang/` 目录下存放所有翻译好的 `.json` 语言文件。
+- 主语言文件为 `en_us.json`（英文源文件），存放在 `未汉化文件/[模组名称或ID]/` 汉化目标为 `zh_cn.json`。
 
 ## 给 AI （DeepSeek）的上下文说明
 > **重要：请仔细阅读以下规则**
